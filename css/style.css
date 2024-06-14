@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+html {
+  font-size:62.5%;
+}
+
+* {
+    list-style: none;
+}
+
+body {
+    font-size:1.4rem;
+    background-color: #000000;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #AD2A19;
+}
+.headerinner {
+    max-width: 1440px;
+}
+
+h1,h2 {
+    color: #FFFFFE;
+}
+
+footer {
+    background-color: #AD2A19;
+}
+.footerlist {
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+}
+.title {
+    font-size: 2rem;
+}
+.list {
+    margin-left: -40px;
+    color: #D86868;
+    text-align: left;
+}
